@@ -13,6 +13,9 @@
 #EXT-X-KEY:METHOD=AES-128,URI="https://prod-in.viu.com/api/appsdrm/getkey?sn=2931&cid=1165614501",IV=0xf160cf65807938743a131e646ec9bfbc
 #EXTINF:6,
 1483_s_3_5.vp.mov.ts
+#EXT-X-CUE-OUT:DURATION=30
+iklan.ts
+#EXT-X-CUE-IN
 #EXTINF:6,
 1483_s_4_5.vp.mov.ts
 #EXTINF:6,
@@ -81,9 +84,6 @@
 1483_s_36_5.vp.mov.ts
 #EXTINF:6,
 1483_s_37_5.vp.mov.ts
-#EXT-X-CUE-OUT:DURATION=30
-iklan.ts
-#EXT-X-CUE-IN
 #EXTINF:6,
 1483_s_38_5.vp.mov.ts
 #EXTINF:6,
